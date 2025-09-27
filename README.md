@@ -2,7 +2,7 @@
 
 ## Overview
 This project analyzes **500K+ U.S. vehicle accident records** to show different trends.
-I cleaned and analyzed the kaggle dataset in **Python**, then built an **interactive Tableau dashboard** to show some KPIs.
+I cleaned and analyzed the kaggle dataset in **Python**, then built a **Tableau dash** to show some KPIs.
 
 ## General Steps
 - Cleaned and standardized 20+ columns ( duplicates, missing values, inconsistencies)  
