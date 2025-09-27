@@ -11,12 +11,14 @@ I cleaned and analyzed the kaggle dataset in **Python**, then built a **Tableau 
   - Top 10 states with the most accidents  
   - Accident patterns by season and month  
   - Severity distribution by time of day
+ 
+## Code
+- [Notebook.ipynb](notebook.ipynb) – data cleaning, processing, and some analysis
 
 ## Dashboard
 🔗 [View on Tableau Public](https://public.tableau.com/app/profile/izzat.shuhratov/viz/Transportation_Accidents_Analysis/Dashboard1)
 
 ![Dashboard Screenshot](dashboard.png)
 
-## Code
-- [Notebook.ipynb](notebook.ipynb) – data cleaning, processing, and some analysis
+
 
