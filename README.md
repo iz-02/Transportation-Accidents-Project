@@ -18,5 +18,5 @@ I cleaned and analyzed the kaggle dataset in **Python**, then built an **interac
 ![Dashboard Screenshot](dashboard.png)
 
 ## Code
-- [Notebook.ipynb](Notebook.ipynb) – data cleaning, processing, and some analysis
+- [Notebook.ipynb](notebook.ipynb) – data cleaning, processing, and some analysis
 
